@@ -1,6 +1,6 @@
 #include <iostream>
 
-void windows(){
+void linux(){
     return;
 }
 
